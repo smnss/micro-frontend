@@ -26,7 +26,7 @@ apps/
 
 2. Start development servers:
    ```bash
-   npm run dev
+   npm run preview
    ```
 
    - Host application: http://localhost:5000
